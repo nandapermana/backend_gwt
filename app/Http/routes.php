@@ -11,6 +11,22 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/',[
+	'uses' => 'MenuController@index',
+	'as'   => 'go_index',
+]);
+
+Route::get('/menu',[
+	'uses' => 'MenuController@menu',
+	'as'   => 'go_menu',
+]);
+
+Route::get('/tentang_kami',[
+	'uses' => 'MenuController@about',
+	'as'   => 'go_about',
+]);
+
+Route::get('/audit',[
+	'uses' => 'MenuController@audit',
+	'as'   => 'go_audit',
+]);
