@@ -239,5 +239,8 @@
             </div>
         </div>
     </section>
+    <div>
+        <center><font size="1px" color="#21b9d3"> Copyright(c)2019 Global Wahana Tira</font></center>
+    </div>
 
 @endsection

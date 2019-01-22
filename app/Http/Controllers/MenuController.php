@@ -27,4 +27,24 @@ class MenuController extends Controller
     {
     	return view('menu.audit');
     }
+
+    public function organisasi()
+    {
+    	return view('menu.organisasi');
+    }
+
+    public function harga()
+    {
+    	return view('menu.harga');
+    }
+
+    public function client()
+    {
+    	return view('menu.client');
+    }
+
+    public function kontak()
+    {
+    	return view('menu.kontak');
+    }
 }

@@ -49,9 +49,9 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <a href="organisasi.html"><img src="images/icons/organisasi.png" alt=""></a>
+                            <a href="{{route('go_organisasi')}}"><img src="images/icons/organisasi.png" alt=""></a>
                         </div>
-                        <a href="organisasi.html"><h3>Struktur Organisasi</h3></a>
+                        <a href="{{route('go_organisasi')}}"><h3>Struktur Organisasi</h3></a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
@@ -65,25 +65,25 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <a href="harga.html"><img src="images/icons/harga.png" alt=""></a>
+                            <a href="{{route('go_harga')}}"><img src="images/icons/harga.png" alt=""></a>
                         </div>
-                        <a href="harga.html"><h3>Harga</h3></a>
+                        <a href="{{route('go_harga')}}"><h3>Harga</h3></a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <a href="client.html"><img src="images/icons/partner.png" alt=""></a>
+                            <a href="{{route('go_client')}}"><img src="images/icons/partner.png" alt=""></a>
                         </div>
-                        <h3>Client</h3>
+                        <a href="{{route('go_client')}}"><h3>Client</h3></a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <a href="contact.html"><img src="images/icons/kontak.png" alt=""></a>
+                            <a href="{{route('go_contact')}}"><img src="images/icons/kontak.png" alt=""></a>
                         </div>
-                        <h3>Kontak</h3>
+                        <a href="{{route('go_contact')}}"><h3>Kontak</h3></a>
                     </div>
                 </div>
             </div>

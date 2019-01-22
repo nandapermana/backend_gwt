@@ -30,3 +30,23 @@ Route::get('/audit',[
 	'uses' => 'MenuController@audit',
 	'as'   => 'go_audit',
 ]);
+
+Route::get('/struktur_organisasi',[
+	'uses' => 'MenuController@organisasi',
+	'as'   => 'go_organisasi',
+]);
+
+Route::get('/harga',[
+	'uses' => 'MenuController@harga',
+	'as'   => 'go_harga',
+]);
+
+Route::get('/client',[
+	'uses' => 'MenuController@client',
+	'as'   => 'go_client',
+]);
+
+Route::get('/contact',[
+	'uses' => 'MenuController@kontak',
+	'as'   => 'go_contact',
+]);
