@@ -32,62 +32,104 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>Client says</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                        <h2>Client</h2>
+                    <div class="row">
+                            <a href="excel/Daftar_Klien_Tersertifikasi.xlsx" class="button white"> Daftar Klien tersertifikasi </a>
+                        </div>
                     </div>
                 </div>
             </div>
+            <hr>
             <div class="row">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
                     <div class="testimonials">
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/avatar-small-1.png" alt="">
+                                <img src="images/clients/tamansari.png">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Taman Sari Royal Heritage Spa</h3>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/avatar-small-2.png" alt="">
+                                <img src="images/clients/bambu.png" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Bambu Spa</h3>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/avatar-small-3.png" alt="">
+                                <img src="images/clients/martha.png" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Martha Tilaar Day Spa</h3>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/avatar-small-4.png" alt="">
+                                <img src="images/clients/vivi.png" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Vivi Spa</h3>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/avatar-small-5.png" alt="">
+                                <img src="images/clients/rumahspa.png" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Rumah Spa</h3>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/avatar-small-6.png" alt="">
+                                <img src="images/clients/mizu.png" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Mizu Spa</h3>
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/clients/sangria.png" alt="">
+                            </div>
+                            <h3>San Gria Spa</h3>
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/clients/zen.png" alt="">
+                            </div>
+                            <h3>Zen Reflexology </h3>
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/clients/andaru.png" alt="">
+                            </div>
+                            <h3>Andaru Spa</h3>
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/clients/vimala.png" alt="">
+                            </div>
+                            <h3>Vimala Spa</h3>
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/clients/jayakarta.png" alt="">
+                            </div>
+                            <h3>Jayakarta Jogya Resort & Spa</h3>
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/clients/ocean.png" alt="">
+                            </div>
+                            <h3>Ocean Spa</h3>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <div style="background: #f2fefe">
-        <center><font size="1px"> Copyright(c)2019 Global Wahana Tira</font></center>
-    </div>
+     <footer class="footer-area relative sky-bg" id="contact-page">
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <center><font size="1px" color="#ffffff"> Copyright(c)2019 Global Wahana Tira</font></center>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
 @endsection
