@@ -48,13 +48,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-1.jpg" alt="">
+                                            <img src="images/icons-2/lembaga.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-2.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -71,13 +68,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
+                                            <img src="images/icons-2/pelaksanaan.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -93,13 +87,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
+                                            <img src="images/icons-2/prinsip.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -116,13 +107,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
+                                            <img src="images/icons-2/integritas.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>  
@@ -139,13 +127,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
+                                            <img src="images/icons-2/keobjektifan.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -162,13 +147,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
+                                            <img src="images/icons-2/kerahasiaan.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -185,13 +167,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
+                                            <img src="images/icons-2/cepat.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -208,13 +187,10 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
+                                            <img src="images/icons-2/bukti.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
-                                        </div>
                                     </div>
                                 </div>
                             </div>

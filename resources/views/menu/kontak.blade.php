@@ -25,81 +25,52 @@
     <div class="icon-bar">
         <a href="{{route('go_index')}}" class="button white"><i class="fas fa-arrow-left"> </i> Back</a>
     </div>
-
-
-    <footer class="footer-area relative sky-bg" id="contact-page">
-        <div class="absolute footer-bg"></div>
-        <div class="footer-top">
-            <div class="container">
+    <section class=" sky-bg section-padding">
+        <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                         <div class="page-title">
                             <h2>Contact with us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-xs-12 col-md-4">
-                        <address class="side-icon-boxes">
-                            <div class="side-icon-box">
-                                <div class="side-icon">
-                                    <img src="images/location-arrow.png" alt="">
-                                </div>
-                                <p><strong>Address: </strong> Box 564, Disneyland <br />USA</p>
+                 <div class="row">
+                    <div class="col-6 col-md-4">
+                        <div class="side-icon-box">
+                            <div class="side-icon">
+                                <img src="images/location-arrow.png" alt="">
                             </div>
-                            <div class="side-icon-box">
-                                <div class="side-icon">
-                                    <img src="images/phone-arrow.png" alt="">
-                                </div>
-                                <p><strong>Telephone: </strong>
-                                    <a href="callto:8801812726495">+8801812726495</a> <br />
-                                    <a href="callto:8801687420471">+8801687420471</a>
+                            <p><strong>Alamat: </strong> 
+                                <p>
+                                Graha Mustika Ratu, Jl. Gatot Subroto No.74-75, RT.2/RW.1, Menteng Dalam, Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870
                                 </p>
-                            </div>
-                            <div class="side-icon-box">
-                                <div class="side-icon">
-                                    <img src="images/mail-arrow.png" alt="">
-                                </div>
-                                <p><strong>E-mail: </strong>
-                                    <a href="mailto:youremail@example.com">youremail@example.com</a> <br />
-                                    <a href="mailto:youremail@example.com">example@mail.com</a>
-                                </p>
-                            </div>
-                        </address>
+                        </div>
                     </div>
-                    <div class="col-xs-12 col-md-8">
-                        <form action="process.php" id="contact-form" method="post" class="contact-form">
-                            <div class="form-double">
-                                <input type="text" id="form-name" name="form-name" placeholder="Your name" class="form-control" required="required">
-                                <input type="email" id="form-email" name="form-email" class="form-control" placeholder="E-mail address" required="required">
+                    <div class="col-6 col-md-4">
+                        <div class="side-icon-box">
+                            <div class="side-icon">
+                                <img src="images/phone-arrow.png" alt="">
                             </div>
-                            <input type="text" id="form-subject" name="form-subject" class="form-control" placeholder="Message topic">
-                            <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Your message" required="required"></textarea>
-                            <button type="sibmit" class="button">Submit</button>
-                        </form>
+                            <p><strong>Telpon: </strong>
+                                <a href="callto:021-8305754">021-8305754</a><br />
+                            </p>
+                        </div>
                     </div>
-                </div>
+                    <div class="col-6 col-md-4">
+                        <div class="side-icon-box">
+                            <div class="side-icon">
+                                <img src="images/mail-arrow.png" alt="">
+                            </div>
+                            <p><strong>E-mail: </strong>
+                                <a href="mailto:globalwahanatirta.lsu@gmail.com">globalwahanatirta.lsu@gmail.com</a> <br />
+                        </div>
+                    </div>
+                  </div>
             </div>
-        </div>
-        <div class="footer-middle">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 pull-right">
-                        <ul class="social-menu text-right x-left">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-github"></i></a></li>
-                        </ul>
-                    </div>
-                    <div class="col-xs-12 col-sm-6">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id corrupti architecto consequuntur, laborum quaerat sed nemo temporibus unde, beatae vel.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+    </section>
+
+
+    <footer class="footer-area relative sky-bg" id="contact-page">
         <div class="footer-bottom">
             <div class="container">
                 <div class="row">

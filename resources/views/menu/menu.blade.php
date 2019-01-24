@@ -32,8 +32,8 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>What We Do?</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                        <h2>Menu</h2>
+                        <p></p>
                     </div>
                 </div>
             </div>

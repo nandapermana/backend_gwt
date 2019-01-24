@@ -41,7 +41,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-1.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>DR.BRA. Mooryati Sudibyo</h4>
                         <h6>Komisaris</h6>
@@ -56,7 +56,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-2.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Putri Kuswisnu Wardani</h4>
                         <h6>Komisaris</h6>
@@ -71,7 +71,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-3.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Dr. Kusumadewi Sutanto, M.pd</h4>
                         <h6>Komisaris</h6>
@@ -86,7 +86,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>dr.Lianywati Batihalim, Ms, Sp.OK</h4>
                         <h6>Komisaris</h6>
@@ -101,7 +101,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Erwina SoewarnaK</h4>
                         <h6>Komisaris</h6>
@@ -128,7 +128,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-1.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Mohammad Asyhadi , M.pd</h4>
                         <h6>Direktur Utama</h6>
@@ -143,7 +143,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-2.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Mulyanto</h4>
                         <h6>Direktur Eksekutif</h6>
@@ -158,7 +158,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-3.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Yudith Ema R</h4>
                         <h6>Direktur Eksekutif</h6>
@@ -173,7 +173,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Naning Fatmandiri</h4>
                         <h6>Sekretaris</h6>
@@ -188,7 +188,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Susanti Syamsudin</h4>
                         <h6>Sekretaris</h6>
@@ -215,7 +215,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-1.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Desi Indarini</h4>
                         <h6>Manager Bagian Umum</h6>
@@ -230,7 +230,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-2.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Precillia Frederika </h4>
                         <h6>Manajer Pemasaran dan Kerjasama</h6>
@@ -245,7 +245,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-3.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Andi Armin</h4>
                         <h6>Manajer Pemasaran dan Kerjasama</h6>
@@ -260,7 +260,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Deasy Chrysti</h4>
                         <h6>Manajer Sertifikasi</h6>
@@ -275,7 +275,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>drg. Hermiati A.P</h4>
                         <h6>Manajer Sertifikasi</h6>
@@ -290,7 +290,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Sri Mulyati</h4>
                         <h6>Manajer Sertifikasi</h6>
@@ -305,7 +305,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Teguh Susanto</h4>
                         <h6>Manajer Sertifikasi</h6>
@@ -320,7 +320,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Nor Aynie</h4>
                         <h6>Manajer Sertifikasi</h6>
@@ -335,7 +335,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Sri Ida Mulyani</h4>
                         <h6>Manajer Sertifikasi</h6>
@@ -350,7 +350,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Dian Neviana</h4>
                         <h6>Manajer Sertifikasi</h6>
@@ -365,7 +365,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/team-section-11.png" alt="">
                         </div>
                         <h4>Boma</h4>
                         <h6>Legal</h6>

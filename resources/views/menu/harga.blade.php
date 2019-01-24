@@ -32,59 +32,43 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>Afortable Price</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                        <h2>Harga</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-4">
                     <div class="price-table">
-                        <h3 class="text-uppercase price-title">Basic</h3>
+                        <h3 class="text-uppercase price-title">Tirta 1</h3>
                         <hr>
                         <ul class="list-unstyled">
-                            <li><strong class="amount">$ <span class="big">20</span></strong>/Month</li>
-                            <li>100 MB Disk Space</li>
-                            <li>2 Subdomains</li>
-                            <li>5 Email Accounts</li>
-                            <li>Webmail Support</li>
-                            <li>Customer Support 24/7</li>
+                            <li><strong class="amount">Rp. </strong><span class="big">9.800.000</span></li>
                         </ul>
                         <hr>
-                        <a href="#" class="button">Purchase</a>
+                        <a href="#" class="button gradient">Daftar</a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="price-table active">
                         <span class="price-info"><span class="ti-crown"></span></span>
-                        <h3 class="text-uppercase price-title">STABDARD</h3>
+                        <h3 class="text-uppercase price-title">Tirta 2</h3>
                         <hr>
                         <ul class="list-unstyled">
-                            <li><strong class="amount">$ <span class="big">39</span></strong>/Month</li>
-                            <li>100 MB Disk Space</li>
-                            <li>2 Subdomains</li>
-                            <li>5 Email Accounts</li>
-                            <li>Webmail Support</li>
-                            <li>Customer Support 24/7</li>
+                            <li><strong class="amount">Rp. </strong><span class="big">12.500.000</span></li>
                         </ul>
                         <hr>
-                        <a href="#" class="button">Purchase</a>
+                        <a href="#" class="button gradient">Daftar</a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="price-table">
-                        <h3 class="text-uppercase price-title">UNLIMITED</h3>
+                        <h3 class="text-uppercase price-title">Tirta 3</h3>
                         <hr>
                         <ul class="list-unstyled">
-                            <li><strong class="amount">$ <span class="big">59</span></strong>/Month</li>
-                            <li>100 MB Disk Space</li>
-                            <li>2 Subdomains</li>
-                            <li>5 Email Accounts</li>
-                            <li>Webmail Support</li>
-                            <li>Customer Support 24/7</li>
+                            <li><strong class="amount">Rp. </strong> <span class="big">15.000.000</span></li>
                         </ul>
                         <hr>
-                        <a href="#" class="button">Purchase</a>
+                        <a href="#" class="button gradient">Daftar</a>
                     </div>
                 </div>
             </div>
